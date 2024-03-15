@@ -10,6 +10,7 @@ IN ORDER TO MAKE A TRANSACTION YOU NEED 3 KEY THINGS:
 - A wallet
   
 When the project, the first page you encounter is the transaction page below:
+
 ![transaction ](https://github.com/camandacole/Blockchain-Demo/assets/44839897/b6a0d407-ae6a-448c-a71f-1303ffc0a594)
 
 - First click on the "create wallet" button. This will create a wallet that contains a private ansd publick key and it loads a random amount from $10 dollars to 10k. The wallet info would be saved to a file.
