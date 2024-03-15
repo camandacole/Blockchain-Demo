@@ -24,7 +24,7 @@ When the project, the first page you encounter is the transaction page below:
 
 ## HASHING ALGORITHM USED FOR THIS PROJECT
 
-As you see in the above picture, each block has a hash value which is geneted based on the block information. Hashing maintains the immutability of a bloackchain, making it difficult to compromise. This project uses the SHA 256 Hashing algorithm, a cryptographic algorithm
+As you see in the above picture, each block has a hash value which is generated based on the hash of its transaction. Hashing maintains the immutability of a blockchain, making it difficult to compromise. This project uses the SHA 256 Hashing algorithm, a cryptographic algorithm
 that uses a sophisticated mathematical function.
 
 ### REFERENCES:
