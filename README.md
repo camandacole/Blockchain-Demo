@@ -18,14 +18,16 @@ When the project, the first page you encounter is the transaction page below:
 
 ![transaction2](https://github.com/camandacole/Blockchain-Demo/assets/44839897/651f1b1b-514b-43ec-8ecc-0a882f7c55a4)
 
--If transaction was sucessful, then a block is created for it and transaction is signed to ensure legitimacy. We can view the table of blocks below. One you click on a specific block, its transaction is displayed
+- If transaction was sucessful, then a block is created for it and transaction is signed to ensure legitimacy. We can view the table of blocks below. One you click on a specific block, its transaction is displayed
 
 ![blocks](https://github.com/camandacole/Blockchain-Demo/assets/44839897/b4c1948f-e006-4244-99e5-686d13f3838c)
 
-HASHING ALGORITHM USED FOR THIS PROJECT
+## HASHING ALGORITHM USED FOR THIS PROJECT
+
 As you see in the above picture, each block has a hash value which is geneted based on the block information. Hashing maintains the immutability of a bloackchain, making it difficult to compromise. This project uses the SHA 256 Hashing algorithm, a cryptographic algorithm
 that uses a sophisticated mathematical function.
 
-REFERENCES:
+### REFERENCES:
+
 https://www.javatpoint.com/how-block-hashes-work-in-blockchain
 https://www.ssldragon.com/blog/sha-256-algorithm/#:~:text=SHA%2D256%20refers%20to%20a,uniquely%20representing%20the%20original%20data.
